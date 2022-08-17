@@ -26,7 +26,6 @@
         <email>ionut-catalin.poitasu@outlook.com</email>
       </developer>
     </developers>
-
     <scm child.scm.connection.inherit.append.path="false" child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
         <connection>scm:git:https://github.com/${gitHubRepo}</connection>
         <developerConnection>scm:git:https://github.com/${gitHubRepo}</developerConnection>
