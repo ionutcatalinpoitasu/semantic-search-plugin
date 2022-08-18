@@ -19,6 +19,9 @@ Report issues and enhancements in the [Jenkins issue tracker](https://issues.jen
 ## Resources
 
 https://icons.iconarchive.com/icons/franksouza183/fs/64/Places-folder-saved-search-icon.png
+https://icons.iconarchive.com/icons/acidrums4/betelgeuse/64/Places-folder-saved-search-icon.png
+https://icons.iconarchive.com/icons/multivitamin/multiminimal/64/search-icon.png
+https://icons.iconarchive.com/icons/designbolts/seo/64/Organic-Search-icon.png
 
 ## Contributing
 
