@@ -16,6 +16,10 @@ If you use GitHub issues there's no need for this section; else add the followin
 
 Report issues and enhancements in the [Jenkins issue tracker](https://issues.jenkins-ci.org/).
 
+## Resources
+
+https://icons.iconarchive.com/icons/franksouza183/fs/64/Places-folder-saved-search-icon.png
+
 ## Contributing
 
 TODO review the default [CONTRIBUTING](https://github.com/jenkinsci/.github/blob/master/CONTRIBUTING.md) file and make sure it is appropriate for your plugin, if not then add your own one adapted from the base file

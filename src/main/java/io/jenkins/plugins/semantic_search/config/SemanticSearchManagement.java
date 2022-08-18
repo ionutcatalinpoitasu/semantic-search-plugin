@@ -19,6 +19,17 @@ public class SemanticSearchManagement extends ManagementLink implements StaplerP
 
     public static final String URL_NAME = "semantic-search";
 
+    /**
+     * The base URL of this plugin. Only valid for web resources.
+     */
+    public static final String PLUGIN_URL = "/plugin/semantic-search/";
+
+
+    /**
+     * The base URL of the plugin images.
+     */
+    public static final String PLUGIN_IMAGES_URL = PLUGIN_URL + "images/";
+
     private static final Logger logger = LoggerFactory.getLogger(SemanticSearchManagement.class);
 
     @Override
@@ -38,7 +49,7 @@ public class SemanticSearchManagement extends ManagementLink implements StaplerP
 
     @Override
     public String getIconFileName() {
-        return "icon.png";
+        return PLUGIN_IMAGES_URL + "search1.png";
     }
 
     @Override
