@@ -31,7 +31,7 @@ public class SemanticSearchManagement extends ManagementLink implements StaplerP
 
         @Override
         public String getDisplayName() {
-            return "";
+            return "Semantic Search";
         }
 
     }
@@ -48,12 +48,12 @@ public class SemanticSearchManagement extends ManagementLink implements StaplerP
 
     @Override
     public String getDisplayName() {
-        return "DisplayName";
+        return "Semantic Search";
     }
 
     @Override
     public String getDescription() {
-        return "Description";
+        return "This plugin allows a natural language search based on entities and conditions";
     }
 
     @Override
